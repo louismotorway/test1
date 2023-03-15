@@ -1,0 +1,7 @@
+￼
+Slack
+	1.	Open the slack admin portal https://motorway.slack.com/admin
+	2.	Open the ‘user groups tab’￼ 
+	3.	On the user group for the users new department click ‘edit group members’￼ 
+	4.	search for the user, add them to the group and hit save￼ 
+	5.	if the users department move if permanent take the same steps above but remove the user from their old departments user group and hit save.

@@ -1,0 +1,17 @@
+￼
+Talkdesk
+	1.	Open the Talkdesk Admin portal https://motorway.mytalkdesk.com/
+	2.	Click the ‘Admin’ tab
+￼
+ 3. Click the ‘Agents’ tab
+￼
+4. Click ‘Add New Agent’
+￼
+5. Enter the user’s full name and Email address.
+￼
+￼
+	6.	Set the user’s Role to ‘Agent’￼ 
+	7.	Set the client integration to ‘Zendesk’ unless the user is an ‘Account Manager’ or in ‘Dealer experience’ then set the integration to ‘Fresh Sales’
+￼
+	8.	Turn on ‘After Call Work’, set the ‘After Call Work Timeout’ to ‘90 seconds’, and tick ‘Inbound Calls’ and ‘Outbound Calls’￼ 
+	9.	Hit Save

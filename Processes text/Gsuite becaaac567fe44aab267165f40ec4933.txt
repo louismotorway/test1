@@ -1,0 +1,38 @@
+￼
+Gsuite
+
+Deactivating a user In Google can be broken down in the following categories: 
+	•	Cancelling calendar events 
+	•	Removing mobile device access
+	•	Re routing email
+	•	Transferring Google Drive content 
+
+Cancelling calendar events
+	1.	Sign into Google admin console 
+	2.	Click Apps 
+	3.	Select Google Workspace
+	4.	Choose Calendar from the list
+	5.	Click the ‘events cancellation’ tab, enter the leavers username to cancel their events
+￼
+
+Rerouting the employee’s emails 
+	1.	Sign into Google admin console 
+	2.	Click Apps 
+	3.	Select Google Workspace
+	4.	Click on Gmail
+	5.	Choose default Routing
+	6.	Click ‘Add a rule’￼ 
+	7.	Add the leavers Email address￼ 
+	8.	Add the Managers email address under ‘Envelope recipient’￼ 
+	9.	Under ‘Options’ select ‘Perform this action on non-recognised and recognised addresses￼ 
+
+Transferring Google Drive content 
+
+	1.	Sign into Google admin console 
+	2.	Click Apps 
+	3.	Select Google Workspace
+	4.	Transfer the Leavers google drive content to yourself￼ 
+	5.	Open your google drive https://drive.google.com/drive/my-drive
+	6.	Transfer the leavers drive content into ‘previous users confidential’￼ 
+	7.	Click on the folder within the new drive and select share 
+	8.	Now share to the employees line manager 

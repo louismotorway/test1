@@ -1,0 +1,12 @@
+￼
+O365
+
+💡
+Please note that the licenses will keep adding back until the user is completely removed
+Make sure sign in is blocked on o365 and user licenses / groups removed
+	1.	Open o365 https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users
+	2.	search for the user and open their profile
+	3.	click the ‘Block sign in’ button￼ 
+	4.	Click the ‘manage groups’ button and remove the user from ALL groups￼ 
+	5.	Click the ‘Licenses and apps tab’ and uncheck all, click save changes￼ 
+

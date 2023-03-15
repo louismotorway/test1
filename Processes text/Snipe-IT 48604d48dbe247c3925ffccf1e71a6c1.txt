@@ -1,0 +1,16 @@
+🖥️
+Snipe-IT
+As part of the on and offboarding process, we need to assign out accessories and assets to the user, and check them back into stock once they leave.
+Please see the flow charts below for On and Offboarding which the Engineer should follow to make sure the equipment is checked out / back-in correctly and efficiently. 
+Onboarding
+￼
+Offboarding
+￼
+
+Internal Moves
+Occasionally we have users move departments for secondments, or for promotion purposes. This can often mean users move desks or upgrade their equipment (to a laptop for example from desktop), depending on their new role. Please see some instructions below for handling these in Snipe-IT to make sure that everything is kept accurate and up to date. 
+	•	Screens will be checked out to the desk so they can remain unchanged.
+	•	Accessories (keyboard / mouse etc) will stay checked out to the user. It is most likely that they will have these accessories on the new desk so everything should remain the same.
+	•	The user will take their PC with them (if they aren’t getting a new/upgraded device) - please go to the “Desk Location Known?” step in the Onboarding Flow and finish the flow as normal. The location of the device will automatically update to the new location of the user. 
+	•	If they are getting a new device, please pick up the Offboarding Flow at “Kit return to office…” and follow the process to check that asset back into stock / awaiting refurb. 
+	◦	Then on the first day of the move / new role - pick up the Onboarding Flow at “start date 4 weeks or less” decision flow and continue as normal. This will check-out the new asset to the user and also have the location of the user updated. 

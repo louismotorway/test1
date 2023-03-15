@@ -1,0 +1,29 @@
+￼
+Zendesk
+Archive - Old process
+
+Please note: As of 3rd October 2022, the process for Zendesk account creation is being automated, the process for how the automation is outlined below: 
+
+Additional Note: The Automation is only enabled for User provisioning not updating, meaning if you need to update fields that will affect their Zendesk account you will need to approve the update on Zendesk - This has been set in agreement with Glen to ensure that he is able to administer the Zendesk tenant, groups, roles etc as he requires. 
+If you are going to make any changes to any of the rules, or add in a new provisioning rule, please run it by Glen for approval before making it live. 
+	1.	The user account is created in OneLogin
+	2.	Once the Cost Centre and other custom details are populated around 00:00 on the users first day, their accounts will then be created automatically in Zendesk, including setting role to Staff, Job title and company phone number populated and groups updated based on their team using rules in OneLogin.
+	3.	Then at 06:00 a custom script is run in Zendesk by Premium Plus, this script will check for any users in our Default group “Do Not Use” and will assign the following signature template that uses placeholders within Zendesk to update the agents name, job title and phone number in the signature:
+&nbsp;
+	•	*{{agent.name}}**
+	•	*{{agent.custom_fields.job_title}}**
+	•	*{{agent.custom_fields.agent_phone_number}}**
+&nbsp;
+	4.	Shortly after the script is run, a follow up script is run to remove users from the “Do Not Use” group and assign their default to the remaining group. NOTE: If the user is not a member of any other groups they will added to the “Zendesk Support” group
+
+Creating a custom user view is now no longer required as Glen has created reports that allow the Team Leaders to view their agent tickets as they had done previously with the custom user views
+
+In addition to the base rules, there are some additional rules for teams that require additional setup, these being Sales Support. 
+For Sales Support you will find a custom user field in OneLogin called Sales Support Sub Division, based on the information you enter in here users will be added to additional groups (once you approve the update for Zendesk) these sub divisions and groups are noted below: 
+
+Advanced - if you enter Advanced in the field the users are added to the following groups: Sales Support, Privacy, Complaints, Reviews and Social Media 
+
+TL / Senior - If you enter TL / Senior into the field the users are added to the following groups: Sales Support, Privacy, Complaints, Reviews, Social Media and Document Team 
+
+
+

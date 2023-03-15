@@ -1,0 +1,9 @@
+￼
+Talkdesk
+
+
+	1.	Open Talkdesk https://motorway.mytalkdesk.com/?classic#admin/agents
+	2.	search for the user and open their profile
+	3.	delete the user from any ring groups and then add them to the ‘agent’ ring group￼ 
+	4.	Set ‘agent activation’ to ‘deactivated’
+￼

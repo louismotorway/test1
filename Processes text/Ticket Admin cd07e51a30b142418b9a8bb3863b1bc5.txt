@@ -1,0 +1,6 @@
+✍️
+Ticket Admin
+	1.	Open the HaloITSM ticket and change the ticket title to the following format:￼ 
+	2.	Set the ‘Next action date’ to the leavers Move date if this is in the future. ￼ 
+	3.	Update the ticket with the notes regarding the move / promotion so you know what’s changing:￼
+	4.	 

@@ -1,0 +1,26 @@
+🏁
+Final steps
+https://gsuitetips.com/tips/calendar/make-and-use-a-template-event-in-google-calendar/
+		Send Onelogin invites the last day of the week before someone joins do the following:
+	1.	Open Onelogin https://motorway.onelogin.com/users
+	2.	search for the user and open their profile
+	3.	click ‘More actions’ and ‘send invitation’￼ 
+	4.	Open BambooHR https://motorway.bamboohr.com/
+	5.	search for the user and open their profile
+	6.	copy the users personal email address and use this to send the invite (the user would not have started yet so has no access to corporate email)￼
+	1.	Open the ticket in HaloITSM, click ‘Email user’, click ‘insert canned text’ and select ‘Onelogin Invitation & First day guide’￼ 
+	2.	Change the ‘To’ address to the users personal email and send it.
+		 
+
+
+		1Password the last day of the week before someone joins do the following:
+	1.	Open the Onelogin ‘People’ tab https://motorway.1password.com/people
+	2.	Click ‘Invite People’￼ 
+	3.	Send the invite to their Motorway email address￼ On the day of the user joining:  We will receive an email to confirm the users Onelogin account ￼
+	1.	Click ‘Confirm account’
+	2.	Open the 1Password ‘Vaults’ tab https://motorway.1password.com/vaults
+	3.	Click on the vault that corresponds with the users department and share the vault with the user.
+	4.		4.	If the user is in Engineering refer to the following guide
+	5.	 
+		 
+

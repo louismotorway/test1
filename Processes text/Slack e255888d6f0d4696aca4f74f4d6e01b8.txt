@@ -1,0 +1,8 @@
+￼
+Slack
+	1.	Open the Slack admin centre https://motorway.slack.com/admin
+	2.	Under manage member select invite. 
+	3.	Now enter all of the email addresses for the agents you are creating, you do not need to add these 1 by 1. ￼ 
+	4.	Find each agents account once created and set their display name and full name to their full names, this can be completed by click on the 3 dots on the profile list and selecting edit.￼ 
+	5.	Go to the User groups section and find the relevant group.
+	6.	Click on the profile icon and add each required member.  ￼ 

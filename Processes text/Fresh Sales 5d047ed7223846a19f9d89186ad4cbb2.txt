@@ -1,0 +1,11 @@
+￼
+Fresh Sales
+FreshSales is a platform used in a small quantity by the Sales department teams (Account Managers and Dealer Experience) as opposed to using Zendesk. Please follow the steps below to setup access: 
+
+	1.	log into https://motorway.freshsales.io/settings/users/view/active
+	2.	Select Add user
+	3.	Set the user’s team to reflect their team
+	4.	Set the user’s Pipeline to reflect their team
+	5.	Set the user’s manager to their line manager 
+	6.	Set the user’s Job title 
+	7.	Set the User’s role to user ￼ 

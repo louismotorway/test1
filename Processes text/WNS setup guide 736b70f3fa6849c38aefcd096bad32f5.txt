@@ -1,0 +1,22 @@
+❓
+WNS setup guide
+💡
+Please note that unlike standard accounts we set up WNS accounts with the email format firstname.lastname@motorway.co.uk
+When a WNS onboarding ticket comes in, please apply the WNS Onboarding w/Tasks Template to populate the tasks required for the setup. 
+
+	1.	Using the list of names you have been provided fill out the CSV file with the details for their account, ensuring that you add the office location and division, these will be taken into affect when setting up accounts in linked applications like Google. https://docs.google.com/spreadsheets/d/1gUJtFhYUbZwvdZjmW2HWiaEBMDOu5_zT00ASemIKWio/edit#gid=1838748532
+	2.	Download the completed SpreadSheet as a CSV.
+	3.	In the OneLogin admin portal https://motorway.onelogin.com/admin2 go to users > More > import users.￼ 
+	4.	Now upload the CSV and press import. 
+	5.	Note: you can watch the progress of your import from Activity > Jobs.￼ 
+	5.	Once complete, review a number of the accounts to ensure the fields have populated correctly. 
+	6.	Add the WNS users to the following spreadsheet (this is where we track the progress of the other account / application set-ups) https://docs.google.com/spreadsheets/d/1FStD6Pu_fQb5k8HeYLWcbH1BhIZyGICCRVbu6whHdzU/edit#gid=0
+	7.	Set up the following and update the spreadsheet to track progress:
+￼Google
+￼Slack
+￼Dashboard
+￼Zendesk
+￼Talkdesk
+
+
+

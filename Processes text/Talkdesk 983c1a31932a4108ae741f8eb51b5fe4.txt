@@ -1,0 +1,7 @@
+￼
+Talkdesk
+Talkdesk - make sure they’re not assigned to a ring group
+	1.	open talkdesk admin https://motorway.mytalkdesk.com/?classic#admin/agents
+	2.	search for the user and open their profie
+	3.	remove the user from their ring group so their manager can reset it￼ 
+

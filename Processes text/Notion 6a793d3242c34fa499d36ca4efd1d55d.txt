@@ -1,0 +1,16 @@
+￼
+Notion
+	1.	Open Notion https://www.notion.so/
+	2.	Open the ‘Settings & Members’ tab￼ 
+	3.	Click ‘Add Members’￼ 
+
+	4.	Enter the user’s email address and then click ‘Invite’
+￼
+	5.	 Switch to the ‘Groups’ tab
+￼
+	6.	Scroll down the list until you find the relevant group for the user’s department and then add them.
+￼
+
+	7.	Please note if the employee you are onboarding works within Engineering they must be added to the product group too. 
+
+

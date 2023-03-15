@@ -1,0 +1,19 @@
+￼
+ℹ️
+Onboarding/ Movers/ Off-boarding:
+This Document is intended as a step by step guide for completing the following processes, below are overviews on each:
+		Onboarding Onboarding is the process of setting up a new employee ready for when they start on their first day, this involves giving them access to all of the software/systems they will need to in their role, ensuring they have all of the correct permissions and groups for their role and also provisioning their equipment. When a new user is onboarded, the process starts with HR, once the person is recruited HR are responsible for filling out the users personal details in BambooHR. Once the users BambooHR profile has been populated an onboarding ticket will be raised in HaloITSM which is where the users name, Division and Job title will be displayed, along with a checklist of tasks that need to be completed on the right hand side. There are different variables which determine which access people are given and which software is made available to them, this is mostly decided by the users division and location. Tables which define this information can be found below: ℹ️Department specific groups / software We also onboard ‘WNS Users’ who are contractors for a third party company, the onboarding steps for them are also slightly different because unlike the Brighton and London users, those who work out of Durban are not added into Bamboo, this means their OneLogin Profiles are not automatically created and populated, additionally their access to systems is limited.  
+		Movers Movers is the process of changing a users department/role when they switch jobs within the company this includes changing the users department across all of our software/systems, making sure that they have access to all of the resources needed for their new role and revoking access to the systems and resources they had in their old role if they are no longer needed. HR notify us of a mover by raising a mover ticket in HaloITSM, this provides us with the users name, and their current and future department, along with the date they are moving.
+		 Movers can be temporary or permanent, if temporary we should be provided with a ‘move back’ date in the form of a second ticket on which we can revert all of the changes made, if the move is permanent this is not necessary.
+		 We are responsible for making sure that all user access has been changed to match their new department / role and any unneeded access related to their old role is revoked. We are also responsible for making sure that the user has all of the correct software / hardware needed to complete their new job by their move date.  
+		Off-boarding Off-boarding is the process of revoking the access given to a user and getting their equipment back once they have left the company, this involves suspending and then deleting their user accounts on our systems and also transferring access of documents etc to their line manager.
+		 HR will normally give us a few weeks notice for a leaver in the form of an HaloITSM ticket, the ticket will let us know the date on which the user is leaving and we can start the process after 4PM on the users last day. If a users employment is terminated immediately then it is important that we start the process on the same day so that the user has no access to our systems.
+		  
+
+step by step guides:
+👋 Onboarding
+
+🚚Internal Moves/Promotions
+
+👋Offboarding Process
+

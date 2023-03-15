@@ -1,0 +1,17 @@
+￼
+Dashboard
+	1.	fill in the users email address 
+	2.	Fill in the users full name
+	3.	select the users role:
+	•	Sales Specialist - CSS
+	•	Admin - platform admin
+	•	Support Specialist - SS
+	•	For Support Specialist - Please can we leave Automatically Assign Leads on “NO” as below:
+￼
+	•	Operations - Finance and other teams that do not match 
+	•	Document reviewer - Document team within SS
+	•	All others names match the roles
+
+	4.	select the organisation which is dependant on whether they are a standard user or a WNS agent
+￼
+

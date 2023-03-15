@@ -1,0 +1,14 @@
+￼
+Zendesk
+	1.	Contact the users Team leader to make sure their tickets have been reassigned
+	2.	Go to Zendesk admin centre https://motorway.zendesk.com/admin/people/team/agents
+	3.	search for the user and open their profile
+	4.	Open the ‘groups’ tab￼ 
+	5.	add the user to the group of their new department￼ 
+	6.	set the new group as their default￼ 
+	7.	remove their old group￼ 
+	8.	change the signature to match their new department
+	9.	Go to the ‘views’ section of the admin portal https://motorway.zendesk.com/admin/workspaces/agent-workspace/views?access=shared&active=true&page=1&per_page=100&sort_by=position
+	10.	find the users view, click the elipses next to it, and click ‘edit view’
+	11.	Replace the department in their view to match their new role￼ 
+

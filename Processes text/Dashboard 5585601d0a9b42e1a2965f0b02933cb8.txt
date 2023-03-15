@@ -1,0 +1,9 @@
+￼
+Dashboard
+	1.	Open Dashboard https://dashboard.motorway.co.uk/vehicles
+	2.	Click on users > Add user.
+	3.	Fill out the following: Email, Name and Role (Roles noted below.) 
+	4.	CSS Agent - Sales Specialist. 
+	5.	QA Agent - QA. 
+	6.	TL / WFM - Sales Specialist. ￼ 
+Please note: Currently there is no method to create users on mass in Dashboard, you will need to do these 1 by 1. 

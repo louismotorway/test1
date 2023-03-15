@@ -1,0 +1,15 @@
+￼
+OneLogin
+OneLogin is our Single Sign On tool used to manage all of our core accounts and the majority of others. 
+The user accounts are automatically created when the work email is populated in Bamboo and the sync runs every 6 hours, however it is possible to force an earlier sync by following the steps below: 
+	1.	Log into OneLogin’s admin portal 
+	2.	Select Users > Directories 
+	3.	Click on Bamboo
+	4.	Select more actions
+	5.	Lastly choose synchronise users 
+
+You can monitor the progress by viewing jobs under the activity tabs 
+
+💡
+Please note: Even when running these manual syncs the users department, division etc will not populate until their effective date noted in Bamboo. 
+

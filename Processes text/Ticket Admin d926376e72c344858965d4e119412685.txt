@@ -1,0 +1,19 @@
+✍️
+Ticket Admin
+When a new Onboarding ticket comes into HalsoITSM it will have a default ticket title which does not contain the user’s job title or start date.
+
+Amend this with the following naming convention:
+
+NewStarter - User’s name - Job Title - Start date
+￼
+
+Please also update the Start Date field with the start date, so the ticket can be viewed in other views and sorted correctly by Start date
+￼
+Then check the office location in the ticket, and then manually apply either the “Onboarding Brighton w/Tasks” or “Onboarding London w/Tasks” templates. If the location is not one of these two (i.e. Poland) then please use the London template, as they will most likely belong to a London team (but equipment is not managed by us!):
+Click on the + sign next to the existing To-Do List
+￼
+Then click on “Add a To-Do List from a Template” and select the relevant template and Press Save:
+￼
+
+The extra tasks will appear at the bottom of the existing to-do list. 
+

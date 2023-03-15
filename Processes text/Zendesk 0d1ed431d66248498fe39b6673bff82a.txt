@@ -1,0 +1,12 @@
+￼
+Zendesk
+
+
+	1.	Open zendesk admin portal https://motorway.zendesk.com/admin/people/team/agents
+	2.	search for the user and open their profile
+	3.	Click ‘Suspend access’￼ 
+	4.	If the user has tickets assigned to them contact their line manager to get them reassigned
+	5.	Change the users account type to ‘end-user’￼ 
+	6.	Open the ‘views’ tab https://motorway.zendesk.com/admin/workspaces/agent-workspace/views?access=shared&active=true&page=1&per_page=100&sort_by=position
+	7.	search for the users view, click the elipses and then ‘deactivate view’￼ 
+

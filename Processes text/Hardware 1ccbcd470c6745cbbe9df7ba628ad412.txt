@@ -1,0 +1,19 @@
+💻
+Hardware
+
+💡
+Please note collection of the equipment should have been arranged by this point.
+
+MAC:
+	1.	Open JamF https://motorway.jamfcloud.com/computers.html
+	2.	search for the users computer
+	3.	go to the ‘management’ tab
+	4.	Click ‘Wipe computer’￼ 
+Windows:
+	1.	Open Endpoint manager https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMenu/mDMDevicesPreview
+	2.	search for the users computer and open the profile
+	3.	click the ‘fresh wipe’ button￼ 
+	4.	Open the HaloITSM Asset reigister https://servicedesk.motorway.co.uk/assets?mainview=assetgroup&selid=20&sellevel=1&selparentid=0&inactive=false&children=true
+	5.	search for the user, click into their assets, go to the ‘users & linked assets tab’, and remove the user￼ 
+	6.	Go to the ‘Details’ tab and change the status to ‘In Stock’￼ 
+

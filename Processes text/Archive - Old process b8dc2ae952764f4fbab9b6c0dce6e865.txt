@@ -1,0 +1,17 @@
+Archive - Old process
+	1.	Open Zendesk Admin portal https://motorway.zendesk.com/admin/people/team/agents
+	2.	Click ‘Add user’
+	3.	Enter the user’s name and email address, set their user type to ‘staff member’ and their role to ‘Staff’, click ‘Add’￼ 
+	4.	add the user’s signature to their profile ￼ 
+	5.	Open the ‘groups’ panel, by default it will be set to ‘Customer Sales’￼ 
+	6.	Select the correct group for the users department e.g ‘Sales Support’￼ 
+	7.	Now that there are two groups selected, change the ‘Default group’ to the correct one for the users department e.g ‘Sales Support’￼ 
+	8.	Now that the default group is set you can deselect ‘Customer Sales’￼ 
+	9.	Steps 9 - 11 do not need to be followed for members of the ‘Sales support’ team - Go to the ‘Views’ section of the admin portal https://motorway.zendesk.com/admin/workspaces/agent-workspace/views?access=shared&active=true&page=1&per_page=100&sort_by=position
+	10.	search the views by the users department e.g ‘sales support’￼ 
+	11.	click the elipsis next to one of the users views and click ‘clone view’￼ 
+	12.	edit title, remove ‘copy of’ and replace the old users name with the new joiners name￼ 
+	13.	Under the conditions section, replace the assignee with the new user
+￼
+	10.	scroll to the bottom of the page and hit ‘save’
+	11.	Reorder the view to ensure it is in alphabetical order within the team section 

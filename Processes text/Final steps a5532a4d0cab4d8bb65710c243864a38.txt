@@ -1,0 +1,17 @@
+🏁
+Final steps
+
+Once you have run through the points noted in the steps above you will then need to create a calendar event called Cleanup employee initials with a link to the offboarding ticket in the description, this will need to be setup as a private event and the other members of the IT Team added as guests. 
+
+On the day of the cleanup follow below: 
+OneLogin
+Open the OneLogin users tab https://motorway.onelogin.com/users
+	1.	Open the users profile, click ‘More Actions’, and ‘Delete’￼ 
+	2.	You will then need to search for the user again who will have (deleting next to their name) 
+	3.	Open the profile and go to their application pool, you will find a number that need approval by admins
+	4.	Click on each app and press approve, this will then fully remove the user profile 
+
+1Password
+	1.	Open the 1Password people tab https://motorway.1password.com/people
+	2.	Open the users profile, click ‘More Actions’, and ‘Delete’￼ 
+

@@ -1,0 +1,37 @@
+📬
+Proofpoint
+Proofpoint is our email filtering platform which scans incoming email to our domains (motorway-it.co.uk, motorway.co.uk and motorway.com) before passing onto Google to deliver to the end user. 
+There is no directory sync with Google so accounts have to be created at the time of onboarding and deleted at the point of the 4 week clean-up when the mailbox itself is also deleted. Please see sections below for logging in, adding, and deleting a user from the system. 
+Logging in.
+This is the URL for Proofpoint: https://eu1.proofpointessentials.com/app/login.php
+Log in with your motorway.co.uk email address and password. 
+2FA is required for all admin accounts, and if you are unable to log-in due to no mobile number on your account, please let another member of the team know who does have access and can populate your mobile number into your account. 
+
+Adding a User
+Once you are logged in, please look at the Administration Section → Expand User Management and select “Users”. 
+￼
+Click Add USER and you will be taken to a new page to create the account. Please populate the details like first name / last name / email address. 
+When doing email address - please make sure that ‘@motorway.co.uk’ is selected. 
+￼
+Leave the mobile number blank, and select the User Role as Silent User. 
+￼
+Please select Yes for “Opt out of Admin & Customer Notifications”.
+￼
+NOTE: If the user is in a London based team, manager and above of their department or has a specific use case, then you will need to allow the user to release their own emails from quarantine. 
+Go to the Spam tab, then change release policy to “User can release” then Press SAVE.
+￼
+
+ 
+
+Your completed new account screen should look something like the below:
+￼
+Once all the information has been put in, please press SAVE.
+
+Deleting a User
+Once you are logged in, please look at the Administration Section → Expand User Management and select “Users”. 
+￼
+Search for the user’s name in the top right hand corner, and then tick the box next to their name and then press Delete User. 
+￼
+You will then be given a prompt to confirm deletion - press OK and then the user will be deleted from Proofpoint. 
+￼
+

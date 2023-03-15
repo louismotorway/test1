@@ -1,0 +1,75 @@
+💻
+Equipment setup
+		Purchasing
+		London All Apple stock is ordered directly through Apple themselves, on average these will be pre ordered by Paddy and will be shipped to the GreenSafe warehouse, however there will be occasions when you will need to order the equipment. 
+		 In the event that the employee requests a Windows OS based device then these are ordered through SoftCat’s Ecat portal and again Paddy will often have stock pre ordered in GreenSafe’s Bonded stock for these events. 
+		
+		For Anyone who is an Engineering Manager, Head of department, or above we purchase the following:
+	▪	M1 Pro MacBook Pro, 16GB RAM, 500GB SSD
+	▪	Apple Keyboard
+	▪	Apple Mouse or Trackpad based on user preference 
+		 
+		For all others we order / offer the following:
+	▪	M1/M2 MacBook Pro, 16GB RAM, 500GB SSD
+	▪	Apple Keyboard 
+	▪	Apple Mouse or Trackpad based on user preference 
+		 
+		Windows Devices:
+	▪	Dell Latitude - i7 or Ryzen 7 CPU, 16GB RAM, 500GB SSD
+	▪	Dell wireless keyboard and mouse combo 
+				 
+		  
+		Brighton For Brighton based employees we only offer Windows OS based devices, these will be ordered via Softcat’s Ecat portal and will either be sent directly to the Brighton office, or to Greensafe’s bonded stock warehouse.  Often Paddy will have preordered this equipment into the required location, but on occasion you will need to order this.   Depending on the employee’s role the equipment will differ, please see the equipment list below:
+		Customer Sales/ Sales Support/ Quality Assurance/ Dealer Experience/ Closing Team agents
+	▪	HP ProDesk G6 400 - Ryzen 5 or Intel i5 CPU, 8GB RAM, 256GB SSD  
+	▪	x2 Dell 24” monitors 
+	▪	https://ecat.softcat.com/catalogue/item/ZUV0F3691840
+	▪	Desk mount for the two monitors 
+	▪	https://ecat.softcat.com/catalogue/item/ZUV0F0556905
+	▪	Logi web camera 
+	▪	https://ecat.softcat.com/catalogue/item/ZUV0E6362241
+	▪	Polly headset (Only Sales Support are given a dual ear headset by default) 
+				 
+		
+		For Team Leaders, Managers and above, Account Management Team, SME and Business Development team
+	▪	Dell Vostro - Ryzen 5 CPU, 8GB RAM, 256GB SSD https://ecat.softcat.com/catalogue/item/ZUV0F4729832
+	▪	x2 Dell 24” monitors
+	▪	 https://ecat.softcat.com/catalogue/item/ZUV0F3691840
+	▪	Desk mount for the monitors 
+	▪	https://ecat.softcat.com/catalogue/item/ZUV0F0556905
+	▪	Logi web camera 
+	▪	https://ecat.softcat.com/catalogue/item/ZUV0E6362241
+	▪	Polly headset 
+	▪	Laptop case 
+	▪	Dell docking station 
+	▪	https://ecat.softcat.com/catalogue/item/ZUV0F3418599
+	▪	Dell wireless keyboard and mouse combo 
+	▪	https://ecat.softcat.com/catalogue/item/ZUV0F3505049
+		 
+		   
+		 
+
+		Device Setup
+		Windows Log into and configure Windows as normal…. When asked how would you like to set up - please click on "Set up for an organisation", and then "Next".  ￼
+		 In the box that comes up, please put in your motorway email address and select "Next".  ￼
+		 OneLogin will now take over the login process and ask you for your Username. This again is your Motorway email address. Please put this in and then press "Continue". ￼
+				 Then put in your OneLogin password that you set-up when the invitation was sent to your personal email. Then press "Continue".  ￼ Once the user is logged in all of our default apps will deploy automatically from Intune, if any additional software is requested this can be installed afterwards.  
+		 Please note that if a user is on a windows laptop they will need the firmware of their docking station updated if it’s new - https://www.dell.com/support/home/en-uk/product-support/product/dell-wd19-130w-dock/drivers
+		 install the firmware update utility and run the updates.
+		MAC Users that are on MAC will log in using a local account, they will already be enrolled in Apple Business Manager upon purchase, JamF is the default MDM set on our ABM account so this means that once the MAC is connected to WIFI it will automatically apply policy and pull down our standard applications from there the user will need to restart the Mac to ensure FileVault is enabled successfully.
+		  
+		 
+
+		Asset management For both Windows and MAC Asset information will be automatically loaded into InTune and JamF respectively although we use HaloITSM Asset management as our primary register.
+		 The device details such as Computer name, Serial number, and Device model are automatically synced to HaloITSM along with the user associated - for Windows PC’s
+		 in HaloITSM MacBook users are not automatically associated with their asset so we have to do this manually, to do this follow the steps below:
+		
+	1.	Open HaloITSM https://servicedesk.motorway.co.uk/home
+	2.	Go to the ‘Assets’ tab￼ 
+	3.	Search for the computer using the serial number￼ 
+	4.	Go to the ‘Users & Linked Assets’ tab for the computer and click ‘edit’￼ 
+	5.	Click the ‘Add user’ button and then ‘Search all Users’￼ 
+	6.	Search for the user, select them, and then click ‘Confirm selection’￼ 
+	7.	Hit Save
+		 
+

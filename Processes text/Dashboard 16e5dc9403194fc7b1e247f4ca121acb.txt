@@ -1,0 +1,9 @@
+￼
+Dashboard
+
+💡
+Please note that for CSS agents the users manager will need to reassign their tickets then we clear down after next pay run for the CSS agents and for standard users the manager just needs to reassign the leads then we can proceed with the below
+
+	1.	open Dashboard https://dashboard.motorway.co.uk/users
+	2.	search for the user and then click the edit button next to their name￼ 
+	3.	at the bottom of their profile, click the delete button￼ 

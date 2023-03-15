@@ -1,0 +1,8 @@
+￼
+Signature Satori
+Signature Satori has it’s own automation that runs daily at 7am, this will check for any users sat under the “Motorway Staff” OU in Google and automatically set their subscription mode to active. 
+If for any reason you need to set this manually force a sync please follow the steps below:
+	1.	open signature satori https://www.signaturesatori.com/app/admin/users
+	2.	Click ‘Sync from G suite’￼ 
+	3.	Tick all 3 boxes, type “rewrite” in the box and click ‘confirm’￼
+	4.	 

@@ -1,0 +1,11 @@
+￼
+Google
+Once you have created the accounts in OneLogin, a number of applications will appear in their application list, these are a mix of pre populated shared credentials and personal accounts for them. A key application in this list is Google, please follow the steps below to ensure their Google account is setup correctly:
+	1.	In OneLogin go to applications on the profile and check the account is listed as provisioned. 
+	2.	In Google admin search for the account to ensure the provision was successful.
+	3.	Check their OU is set to Motorway Staff / Outsourced agents.
+	4.	Check they have been added to the group “WNS Office.”
+	5.	Check their job title has been set to match the one you have outlined in OneLogin. 
+	6.	Check the Department matches the division set in OneLogin. ￼ 
+
+Now that you have confirmed the Google accounts have been setup, the next set of steps / applications do not need to be setup in any particular order 

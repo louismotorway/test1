@@ -1,0 +1,8 @@
+￼
+Slack
+
+	1.	Open the slack Admin portal https://motorway.slack.com/admin
+	2.	search for the user
+	3.	Click the elipses on the right of their name and deactivate the account￼ 
+
+

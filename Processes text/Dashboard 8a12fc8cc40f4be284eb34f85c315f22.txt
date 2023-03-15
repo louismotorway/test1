@@ -1,0 +1,10 @@
+￼
+Dashboard
+💡
+If moving from customer sales - contact team leader to check if commissions have been accounted for before updating dashboard
+	1.	Open Dashboard https://dashboard.motorway.co.uk/users
+	2.	search for the user, click the edit button to open their profile￼ 
+	3.	click the ‘role’ dropdown and select the correct role to reflect the users department change
+￼
+	4.	scroll to the bottom and click ‘update’￼
+	5.	 

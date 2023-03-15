@@ -1,0 +1,11 @@
+￼
+Onelogin
+
+	1.	Open the Admin portal users tab https://motorway.onelogin.com/users
+	2.	search for the user and open their profile
+	3.	click the green ‘Active’ slider to deactivate the users account￼ 
+	4.	click the ‘More Actions’ button and reset the users password￼ 
+
+	5.	Go to the ‘Authentication’ tab, scroll to the bottom, click on the users multi factor authentication method and delete the OTP code
+￼
+￼

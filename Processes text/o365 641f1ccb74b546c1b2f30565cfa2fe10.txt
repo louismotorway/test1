@@ -1,0 +1,16 @@
+￼
+o365
+Onboarding Office 365:
+	1.	Open the following link https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users
+	2.	Search for the user in the active user’s list
+	3.	Under ‘Licenses’ make sure it says the user has got an E3 license
+
+If Microsoft Business apps are requested for the user the following steps must be taken:
+	1.	Email AJT to request a Microsoft Business Apps license support@ajt-ms.com
+	2.	Open the users Onelogin profile https://motorway.onelogin.com/users
+	3.	Under the ‘Microsoft - Business apps’ field enter ‘yes’ and then save the changes
+￼
+	4.	if they are a MAC user add them to the following static user group in JamF https://motorway.jamfcloud.com/staticUserGroups.html?id=3&o=r
+This will give them access to download Microsoft business apps in the self service portal
+
+Windows automatically deploys the apps via a 365 group and Intune, the user will need to restart before they install

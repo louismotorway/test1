@@ -1,0 +1,12 @@
+🏁
+Final steps
+Send Onelogin invites
+the last day of the week before someone joins do the following:
+	1.	Open Onelogin https://motorway.onelogin.com/users
+	2.	search for the user and open their profile
+	3.	click ‘More actions’ and ‘send invitation’￼ 
+	4.	Open BambooHR https://motorway.bamboohr.com/
+	5.	search for the user and open their profile
+	6.	copy the users personal email address and use this to send the invite (the user would not have started yet so has no access to corporate email)￼ 
+	7.	Open the ticket in HaloITSM, click ‘Email user’, click ‘insert canned text’ and select ‘Onelogin Invitation & First day guide’￼ 
+	8.	Change the ‘To’ address to the users personal email and update the {{FIRST NAME}} etc fields, changing their name and email address and your name when signing off the email, and press send. 

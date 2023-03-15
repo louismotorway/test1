@@ -1,0 +1,10 @@
+￼
+Slack
+	1.	Open the slack Admin portal https://motorway.slack.com/admin
+	2.	Click the ‘Invite people’ button￼ 
+	3.	 Enter the User’s email address and then click ‘Send’￼ 
+	4.	Search for the user and then click ‘edit info’￼ 
+	5.	Populate the ‘Full name’ and ‘Display name’ fields with the user’s full name.￼ 
+	6.	Open the ‘User groups tab’￼ 
+	7.	 Add the user to the relevant group based on Department, please note those who work within Engineering and will require additional groups, these are documented here: https://www.notion.so/motorway/Engineering-Hires-Extra-Groups-c659eb3f603e4bdda70e2f650d548882
+

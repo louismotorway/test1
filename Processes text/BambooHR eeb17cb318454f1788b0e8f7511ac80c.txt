@@ -1,0 +1,11 @@
+￼
+BambooHR
+	1.	Open BambooHR https://motorway.bamboohr.com/home/
+	2.	Search for the Joiner by name and open their profile
+	3.	Make sure the ‘Preferred Name’ field is filled out, if it’s not then contact the member of HR who raised the onboarding ticket as only they have access to update this.￼ 
+	4.	Enter the User’s work email address into the Email field (firstname@motorway.co.uk or first initial+lastname@motorway.co.uk if there is already somebody in the company with the same name e.g. LBishop@motorway.co.uk)
+
+💡
+please note that you cannot add the users email address unless their phone number has been entered by HR
+
+

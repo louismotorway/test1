@@ -1,0 +1,11 @@
+￼
+BambooHR
+	1.	Check with HR that the user’s division has been updated in BambooHR
+	2.	Log into Bamboo 
+	3.	Click on inbox 
+	4.	Select mover request 
+	5.	Click on the user you have been updating 
+	6.	Click approve 
+
+
+
